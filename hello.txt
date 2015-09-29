@@ -1,0 +1,5 @@
+Vim is the best editor in the world
+
+(emacs is OK though)
+
+(if you like parentheses)

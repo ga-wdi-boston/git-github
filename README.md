@@ -4,22 +4,22 @@
 
 ## Objectives
 
--  Manage change in a project.
--  Collaborate over time and space.
--  Fork a repository.
--  Clone a repository
--  Synchronize repositories locally.
--  Synchronize repositories remotely.
-
+-   Manage change in a project.
+-   Collaborate over time and space.
+-   Fork a repository.
+-   Clone a repository
+-   Synchronize repositories locally.
+-   Synchronize repositories remotely.
 
 ## Prerequisites
 
-- [Git Basics](https://github.com/ga-wdi-boston/git-basics)
+-   [Git Basics](https://github.com/ga-wdi-boston/git-basics)
 
 ## Overview
 
-Continuing with what we started [Git Basics](https://github.com/ga-wdi-boston/git-basics) we are going to use Github
-to manage our project.
+Continuing with what we started in [Git
+Basics](https://github.com/ga-wdi-boston/git-basics). Now we are going to use
+Github to manage our project.
 
 ## Demo: Linking with GitHub
 
@@ -31,14 +31,15 @@ Now create your own GitHub repository and `push` your master branch.
 
 ## Lab: More Pushing
 
-The last time we saw Ned Stark we had just written his fate.  Below his story
-write the beggining of another character's story.  For instance:
+The last time we saw Ned Stark we had just written his fate.  Below his story,
+write the beginning of another character's story. For instance:
 
+```bash
+Joffrey Baratheon was the one to do Ned in, but his story was only about to
+begin. Let me assure you, he will _DEFINITELY NOT DIE!_
+```
 
-> Joffrey Baratheon was the one to do Ned in, but his story was only about to
-> being, and let me assure you he will ___DEFINITELY NOT DIE!___
-
-Push the changes you made.
+Push the changes you've made.
 
 Also push your `dream-story` branch.  We pushed our `master` branch with the
 command `git push origin master`.  Can you figure out how to push our

@@ -18,7 +18,7 @@
 ## Overview
 
 Continuing with what we started in [Git
-Basics](https://github.com/ga-wdi-boston/git-basics). Now we are going to use
+Basics](https://github.com/ga-wdi-boston/git-basics) but now we are going to use
 Github to manage our project.
 
 ## Demo: Linking with GitHub
@@ -80,7 +80,7 @@ called upstream.  It's just as easy to pull from it.
 
 ## Adding Your Own Remote
 
-Working with the same partner from before one of you will be the primary
+Working with the same partner from before, one of you will be the primary
 repository, the other will be a contributor.
 
 1.The contributor will add the primary repository as a remote.
@@ -100,8 +100,8 @@ repository and create a pull request to the primary.
 
 ## References
 
-- [Git Commands](command-reference.md)
-- [Github's fork page](https://help.github.com/articles/fork-a-repo/)
+-   [Git Commands](command-reference.md)
+-   [Github's fork page](https://help.github.com/articles/fork-a-repo/)
 
 ## [License](LICENSE)
 

@@ -34,7 +34,7 @@ The last time we saw Ned Stark we had just written his fate.  Below his story
 write the beggining of another character's story.  For instance:
 
 > Joffrey Baratheon was the one to do Ned in, but his story was only about to
-> being, and let me assure you he will ___DEFINITELY NOT DIE!___
+> begin, and let me assure you he will ___DEFINITELY NOT DIE!___
 
 Push the changes you made.
 
